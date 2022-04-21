@@ -35183,13 +35183,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: 6px;
-    margin-left: -50px;
+    width: 257px;
+    height: 42px;
+    margin-top: 12px;
+    margin-left: 16px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin: -38px -52px 6px auto;
+    margin: -40px 0 15px auto;
   }
 }
 .u-footer .u-sheet-1 {
